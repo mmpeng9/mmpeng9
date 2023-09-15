@@ -8,10 +8,10 @@ profile:
   align: right
   image: headshot.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>not me</p>
-    <p> </p>
-    <p> </p>
+  # address: >
+  #   <p> address content </p>
+  #   <p> </p>
+  #   <p> </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
