@@ -9,7 +9,7 @@ profile:
   image: headshot.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; not me</p>
+    <p>not me</p>
     <p> </p>
     <p> </p>
 
