@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Arizona</a>. Tucson 
+subtitle: <a href='#'>University of Arizona</a>, Tucson, AZ 85721  
 
 profile:
   align: right
