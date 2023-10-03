@@ -425,3 +425,8 @@ jsonresume:
   - languages
   - interests
   - references
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20  # Add this line to set a 20-minute timeout for the 'build' job
