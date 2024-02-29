@@ -21,4 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 naive, yet even curious
 
-I am currently exploring opportunities and seeking a position. 
+
+
+2024:
+I’m a 5th-year Ph.D. student in Cognition and Neural Systems at the University of Arizona’s Psychology Department. My research primarily focuses on memory updating. I am currently actively seeking a position. 
+
+If you happen upon any opportunities or insights, I'd sincerely appreciate hearing from you at mmpeng@arizona.edu.
